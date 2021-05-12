@@ -24,7 +24,7 @@ function App() {
 	];
 	return (
 		<div>
-			<h2>Let's Get Started!</h2>
+			<h2>Expense Tracker</h2>
 			<Expenses items={expenses}></Expenses>
 		</div>
 	);
